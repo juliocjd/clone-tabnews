@@ -1,0 +1,5 @@
+root = true
+
+[*] # identificar os arquivos que serão afetados pelas regras de indentação ; daria para especificar só para arquivos JS, mas vamos por tudo
+indent_style = space # quando ocorrer uma indentação usar o caracter de espaço
+indent_size = 2 # definindo o espaço/largura da identação. Dois espaços é uma convenção existente
